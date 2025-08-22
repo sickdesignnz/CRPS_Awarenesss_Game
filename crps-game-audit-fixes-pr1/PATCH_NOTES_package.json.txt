@@ -1,0 +1,7 @@
+Add these scripts to your package.json "scripts" block:
+
+  "test:e2e": "playwright test",
+  "check": "tsc -p tsconfig.json --noEmit"
+
+(If you prefer, replace your whole package.json with the file named
+  package.json.FULL_REPLACEMENT_IF_NEEDED.json in this patch pack.)
