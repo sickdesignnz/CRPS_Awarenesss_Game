@@ -1,0 +1,58 @@
+{
+  "contentVersion": "0.0.1",
+  "cards": [
+    {
+      "id": "Q1-001",
+      "quadrant": "Q1",
+      "type": "mcq",
+      "text": "Name one grounding technique.",
+      "outcomes": {
+        "energy": 1,
+        "mood": 0
+      },
+      "tags": [
+        "education",
+        "positive"
+      ]
+    },
+    {
+      "id": "Q1-002",
+      "quadrant": "Q1",
+      "type": "mcq",
+      "text": "Breathing pace for calm?",
+      "outcomes": {
+        "energy": 0,
+        "mood": 1
+      },
+      "tags": [
+        "education"
+      ]
+    },
+    {
+      "id": "Q1-003",
+      "quadrant": "Q1",
+      "type": "roleplay",
+      "text": "Coach a buddy through a flare.",
+      "outcomes": {
+        "energy": 0,
+        "mood": 1
+      },
+      "tags": [
+        "roleplay"
+      ]
+    },
+    {
+      "id": "Q1-004",
+      "quadrant": "Q1",
+      "type": "mcq",
+      "text": "Skip a stretch today?",
+      "outcomes": {
+        "energy": -1,
+        "mood": 0
+      },
+      "tags": [
+        "challenge"
+      ]
+    }
+  ]
+}
