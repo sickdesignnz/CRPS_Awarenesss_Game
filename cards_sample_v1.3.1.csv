@@ -1,0 +1,5 @@
+id,quadrant,cardKind,title,text,meter,delta,tags
+EVT-REL-001,Relationships & Support,Support,Friend says you’re doing well,A friend checks in and tells you you're doing great. Good news—apply it now.,Mood,+1,"support,friend,boost"
+EVT-ACT-001,Daily Life & Activity,Support,Family drops off dinner,A family member brings dinner so you can rest.,Energy,+1,"family,rest,energy"
+EVT-NS-001,Nervous System,Support,Heated blanket feels so good,Warmth helps your system settle. Breathe and enjoy.,Mood,+1,"heat,comfort,nerves"
+EVT-HL-001,Health & Living,Support,You have a holiday,A short break gives your brain a reset.,Energy,+1,"holiday,reset,rest"
