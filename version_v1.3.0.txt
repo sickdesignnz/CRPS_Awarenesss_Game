@@ -1,0 +1,5 @@
+CRPS_FLARE
+Version: v1.3.0
+Freeze ID: v1.3.0-freeze-9319kw4
+Timestamp: 2025-08-26 02:23 (local)
+Notes: Visual board art locked; Energy/Mood meters only; FLARE tile glow WIP; dice start 45° near START; 4-deck schema unified.
